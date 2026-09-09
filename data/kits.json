@@ -1,0 +1,54 @@
+[
+  {
+    "id": "needle-start",
+    "name": "Sew Your First Tote",
+    "category": "Make",
+    "difficulty": "Beginner",
+    "dailyRate": 18,
+    "replacementValue": 420,
+    "availableDays": 21,
+    "accent": "coral",
+    "summary": "A friendly machine-led first project with every consumable measured and packed.",
+    "contents": ["Sewing machine", "Fabric kit", "Thread set", "Shears", "Printed pattern"],
+    "outcome": "One finished canvas tote"
+  },
+  {
+    "id": "first-mix",
+    "name": "Mix Your First Set",
+    "category": "Sound",
+    "difficulty": "Beginner",
+    "dailyRate": 27,
+    "replacementValue": 780,
+    "availableDays": 10,
+    "accent": "violet",
+    "summary": "Learn beat matching without buying a controller you may abandon in a week.",
+    "contents": ["DJ controller", "Closed-back headphones", "Cables", "Practice playlist", "Quick-start deck"],
+    "outcome": "A recorded 15-minute mix"
+  },
+  {
+    "id": "portrait-weekend",
+    "name": "Portrait Weekend",
+    "category": "Capture",
+    "difficulty": "Beginner",
+    "dailyRate": 34,
+    "replacementValue": 1450,
+    "availableDays": 14,
+    "accent": "blue",
+    "summary": "A camera, portrait lens and prompts that turn a borrowed weekend into a portfolio start.",
+    "contents": ["Mirrorless camera", "50mm lens", "Travel tripod", "Reflector", "Portrait prompt cards"],
+    "outcome": "Five edited portraits"
+  },
+  {
+    "id": "clay-table",
+    "name": "Clay at the Table",
+    "category": "Make",
+    "difficulty": "Easy",
+    "dailyRate": 14,
+    "replacementValue": 190,
+    "availableDays": 7,
+    "accent": "ochre",
+    "summary": "Hand-build useful ceramics at home; a local partner handles firing after return.",
+    "contents": ["Air-tight clay box", "Tool roll", "Canvas mat", "Glaze chips", "Firing voucher"],
+    "outcome": "Two fired pinch bowls"
+  }
+]
